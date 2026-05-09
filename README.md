@@ -59,7 +59,6 @@ The primary objective of this work is to understand how boron and nitrogen co-do
 
 ## Experimental Analysis
 
-- SEM particle size analysis
 - XRD peak visualization
 - XPS spectral deconvolution
 - LSV and electrochemical performance plots
@@ -73,13 +72,6 @@ The primary objective of this work is to understand how boron and nitrogen co-do
 - Bader charge analysis
 - Electronic structure interpretation
 - Adsorption energetics and catalyst evaluation
-
-## Visualization
-
-- Publication-quality figures
-- Thesis-ready plotting scripts
-- Automated data processing pipelines
-- Consistent figure styling across datasets
 
 ---
 
