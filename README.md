@@ -139,11 +139,9 @@ This repository is intended for academic and research purposes. Some scripts may
 
 ---
 
-# Citation
 
-If you use parts of this repository or build upon this work, please consider citing the associated thesis and future publications arising from this research.
 
----
+
 
 <div align="center">
 
